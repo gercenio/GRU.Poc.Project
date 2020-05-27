@@ -1,0 +1,9 @@
+D:\Developer\src\Infrastructure\GRU.Poc.Project.Infra.Data\bin\Debug\netstandard2.0\GRU.Poc.Project.Infra.Data.deps.json
+D:\Developer\src\Infrastructure\GRU.Poc.Project.Infra.Data\bin\Debug\netstandard2.0\GRU.Poc.Project.Infra.Data.dll
+D:\Developer\src\Infrastructure\GRU.Poc.Project.Infra.Data\bin\Debug\netstandard2.0\GRU.Poc.Project.Infra.Data.pdb
+D:\Developer\src\Infrastructure\GRU.Poc.Project.Infra.Data\obj\Debug\netstandard2.0\GRU.Poc.Project.Infra.Data.csprojAssemblyReference.cache
+D:\Developer\src\Infrastructure\GRU.Poc.Project.Infra.Data\obj\Debug\netstandard2.0\GRU.Poc.Project.Infra.Data.AssemblyInfoInputs.cache
+D:\Developer\src\Infrastructure\GRU.Poc.Project.Infra.Data\obj\Debug\netstandard2.0\GRU.Poc.Project.Infra.Data.AssemblyInfo.cs
+D:\Developer\src\Infrastructure\GRU.Poc.Project.Infra.Data\obj\Debug\netstandard2.0\GRU.Poc.Project.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Developer\src\Infrastructure\GRU.Poc.Project.Infra.Data\obj\Debug\netstandard2.0\GRU.Poc.Project.Infra.Data.dll
+D:\Developer\src\Infrastructure\GRU.Poc.Project.Infra.Data\obj\Debug\netstandard2.0\GRU.Poc.Project.Infra.Data.pdb

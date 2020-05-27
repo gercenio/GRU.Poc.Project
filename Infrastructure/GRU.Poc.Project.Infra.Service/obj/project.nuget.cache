@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QxarPtTwzxUfteDFnbg4EVVso9yxcNQ6+0aXUd0GX/1NB/ufRAVaTsjg6YZmnSEe5U8Ey9L4NX1uCz5o+1Cb2Q==",
+  "success": true,
+  "projectFilePath": "d:\\Developer\\GRU.Poc.Project\\Infrastructure\\GRU.Poc.Project.Infra.Service\\GRU.Poc.Project.Infra.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
