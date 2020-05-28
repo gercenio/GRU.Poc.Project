@@ -7,3 +7,12 @@ D:\Developer\src\Infrastructure\GRU.Poc.Project.Infra.Service\obj\Debug\netstand
 D:\Developer\src\Infrastructure\GRU.Poc.Project.Infra.Service\obj\Debug\netstandard2.0\GRU.Poc.Project.Infra.Service.csproj.CoreCompileInputs.cache
 D:\Developer\src\Infrastructure\GRU.Poc.Project.Infra.Service\obj\Debug\netstandard2.0\GRU.Poc.Project.Infra.Service.dll
 D:\Developer\src\Infrastructure\GRU.Poc.Project.Infra.Service\obj\Debug\netstandard2.0\GRU.Poc.Project.Infra.Service.pdb
+D:\Developer\GRU.Poc.Project\Infrastructure\GRU.Poc.Project.Infra.Service\bin\Debug\netstandard2.0\GRU.Poc.Project.Infra.Service.deps.json
+D:\Developer\GRU.Poc.Project\Infrastructure\GRU.Poc.Project.Infra.Service\bin\Debug\netstandard2.0\GRU.Poc.Project.Infra.Service.dll
+D:\Developer\GRU.Poc.Project\Infrastructure\GRU.Poc.Project.Infra.Service\bin\Debug\netstandard2.0\GRU.Poc.Project.Infra.Service.pdb
+D:\Developer\GRU.Poc.Project\Infrastructure\GRU.Poc.Project.Infra.Service\obj\Debug\netstandard2.0\GRU.Poc.Project.Infra.Service.csprojAssemblyReference.cache
+D:\Developer\GRU.Poc.Project\Infrastructure\GRU.Poc.Project.Infra.Service\obj\Debug\netstandard2.0\GRU.Poc.Project.Infra.Service.AssemblyInfoInputs.cache
+D:\Developer\GRU.Poc.Project\Infrastructure\GRU.Poc.Project.Infra.Service\obj\Debug\netstandard2.0\GRU.Poc.Project.Infra.Service.AssemblyInfo.cs
+D:\Developer\GRU.Poc.Project\Infrastructure\GRU.Poc.Project.Infra.Service\obj\Debug\netstandard2.0\GRU.Poc.Project.Infra.Service.dll
+D:\Developer\GRU.Poc.Project\Infrastructure\GRU.Poc.Project.Infra.Service\obj\Debug\netstandard2.0\GRU.Poc.Project.Infra.Service.pdb
+D:\Developer\GRU.Poc.Project\Infrastructure\GRU.Poc.Project.Infra.Service\obj\Debug\netstandard2.0\GRU.Poc.Project.Infra.Service.csproj.CoreCompileInputs.cache

@@ -7,3 +7,12 @@ D:\Developer\src\Application\GRU.Poc.Project.Application\obj\Debug\netstandard2.
 D:\Developer\src\Application\GRU.Poc.Project.Application\obj\Debug\netstandard2.0\GRU.Poc.Project.Application.csproj.CoreCompileInputs.cache
 D:\Developer\src\Application\GRU.Poc.Project.Application\obj\Debug\netstandard2.0\GRU.Poc.Project.Application.dll
 D:\Developer\src\Application\GRU.Poc.Project.Application\obj\Debug\netstandard2.0\GRU.Poc.Project.Application.pdb
+D:\Developer\GRU.Poc.Project\Application\GRU.Poc.Project.Application\bin\Debug\netstandard2.0\GRU.Poc.Project.Application.deps.json
+D:\Developer\GRU.Poc.Project\Application\GRU.Poc.Project.Application\bin\Debug\netstandard2.0\GRU.Poc.Project.Application.dll
+D:\Developer\GRU.Poc.Project\Application\GRU.Poc.Project.Application\bin\Debug\netstandard2.0\GRU.Poc.Project.Application.pdb
+D:\Developer\GRU.Poc.Project\Application\GRU.Poc.Project.Application\obj\Debug\netstandard2.0\GRU.Poc.Project.Application.csprojAssemblyReference.cache
+D:\Developer\GRU.Poc.Project\Application\GRU.Poc.Project.Application\obj\Debug\netstandard2.0\GRU.Poc.Project.Application.AssemblyInfoInputs.cache
+D:\Developer\GRU.Poc.Project\Application\GRU.Poc.Project.Application\obj\Debug\netstandard2.0\GRU.Poc.Project.Application.AssemblyInfo.cs
+D:\Developer\GRU.Poc.Project\Application\GRU.Poc.Project.Application\obj\Debug\netstandard2.0\GRU.Poc.Project.Application.dll
+D:\Developer\GRU.Poc.Project\Application\GRU.Poc.Project.Application\obj\Debug\netstandard2.0\GRU.Poc.Project.Application.pdb
+D:\Developer\GRU.Poc.Project\Application\GRU.Poc.Project.Application\obj\Debug\netstandard2.0\GRU.Poc.Project.Application.csproj.CoreCompileInputs.cache

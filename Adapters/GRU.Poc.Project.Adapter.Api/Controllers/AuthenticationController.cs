@@ -6,7 +6,10 @@ using System.Security.Claims;
 using System.Security.Principal;
 using System.Threading.Tasks;
 using GRU.Poc.Project.Adapter.Api.Configurations;
+using GRU.Poc.Project.Adapter.Api.Mappers;
 using GRU.Poc.Project.Adapter.Api.Models;
+using GRU.Poc.Project.Application.Commands.Request;
+using GRU.Poc.Project.Application.Commands.Response;
 using MediatR;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -38,11 +41,11 @@ namespace GRU.Poc.Project.Adapter.Api.Controllers
         {
             bool credenciaisValidas = false;
             
-            var responde  = await _mediator.Send(usuario);
-            /*if (responde.Errors.Count() == 0)
+            var responde  = _mediator.Send(usuario.MapToCommand()).Result as AuthenticationCommandResponse;
+            if (responde.Errors.Count() == 0)
             {
                 credenciaisValidas = true;
-            }*/
+            }
             
             if (credenciaisValidas)
             {
@@ -83,7 +86,7 @@ namespace GRU.Poc.Project.Adapter.Api.Controllers
                 return new
                 {
                     authenticated = false,
-                    //message = string.Format("Falha ao autenticar : {0}",responde.Errors.First())
+                    message = string.Format("Falha ao autenticar : {0}",responde.Errors.First())
                 };
             }
         }
