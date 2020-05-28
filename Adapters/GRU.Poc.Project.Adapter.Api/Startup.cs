@@ -47,7 +47,6 @@ namespace GRU.Poc.Project.Adapter.Api
                 .Configure(tokenConfigurations);
             services.AddSingleton(tokenConfigurations);
 
-            // Jwt
             services.AddAuthentication(authOptions =>
             {
                 authOptions.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -73,17 +72,11 @@ namespace GRU.Poc.Project.Adapter.Api
                     .RequireAuthenticatedUser().Build());
             });
 
-            // ===== Add our DbContext ========
             var con = new ConfigurationBuilder()
                 .SetBasePath(Directory.GetCurrentDirectory())
                 .AddJsonFile("appsettings.json")
                 .Build();
-            /*
-            // ===== Add Identity ========
-            services.AddIdentity<IdentityUser, IdentityRole>()
-                .AddEntityFrameworkStores<MySqlContext>()
-                .AddDefaultTokenProviders();*/
-
+           
             services.Configure<IdentityOptions>(options =>
             {
                 options.Password.RequireDigit = true;
