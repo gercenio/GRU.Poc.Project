@@ -119,9 +119,6 @@ D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netc
 D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
 D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\obj\Debug\netcoreapp3.1\GRU.Poc.Project.Adapter.Api.csproj.CoreCompileInputs.cache
-D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\obj\Debug\netcoreapp3.1\GRU.Poc.Project.Adapter.Api.MvcApplicationPartsAssemblyInfo.cs
-D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\obj\Debug\netcoreapp3.1\GRU.Poc.Project.Adapter.Api.MvcApplicationPartsAssemblyInfo.cache
 D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
 D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
 D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
@@ -129,3 +126,6 @@ D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netc
 D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
 D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
 D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\obj\Debug\netcoreapp3.1\GRU.Poc.Project.Adapter.Api.csproj.CoreCompileInputs.cache
+D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\obj\Debug\netcoreapp3.1\GRU.Poc.Project.Adapter.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\obj\Debug\netcoreapp3.1\GRU.Poc.Project.Adapter.Api.MvcApplicationPartsAssemblyInfo.cache

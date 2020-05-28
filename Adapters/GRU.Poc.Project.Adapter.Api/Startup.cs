@@ -48,7 +48,6 @@ namespace GRU.Poc.Project.Adapter.Api
             services.AddSingleton(tokenConfigurations);
 
             // Jwt
-
             services.AddAuthentication(authOptions =>
             {
                 authOptions.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -79,11 +78,11 @@ namespace GRU.Poc.Project.Adapter.Api
                 .SetBasePath(Directory.GetCurrentDirectory())
                 .AddJsonFile("appsettings.json")
                 .Build();
-
+            /*
             // ===== Add Identity ========
             services.AddIdentity<IdentityUser, IdentityRole>()
                 .AddEntityFrameworkStores<MySqlContext>()
-                .AddDefaultTokenProviders();
+                .AddDefaultTokenProviders();*/
 
             services.Configure<IdentityOptions>(options =>
             {
