@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GRU.Poc.Project.Infra.Data"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{1C023298-6088-4EFF-B6FF-8A89A6AE8E1C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GRU.Poc.Project.Infra.Service", "Infrastructure\GRU.Poc.Project.Infra.Service\GRU.Poc.Project.Infra.Service.csproj", "{9384275E-61CE-4F72-80BC-8B2EC2CFEB5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GRU.Poc.Project.Infra.Data", "Infrastructure\GRU.Poc.Project.Infra.Service\GRU.Poc.Project.Infra.Data.csproj", "{9384275E-61CE-4F72-80BC-8B2EC2CFEB5C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{AE91EC27-5D63-48CC-9F46-8F9F0339950B}"
 EndProject

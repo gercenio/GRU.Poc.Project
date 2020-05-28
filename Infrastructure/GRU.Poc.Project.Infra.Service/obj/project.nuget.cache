@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LDA3HbzdKIBephd/SeREwyOtw/mKtrhAl7aNBuLGsLvuPrNmbIpRhks7AZ92/QPwLPL2NshbIJBPyUBobjdhzQ==",
+  "dgSpecHash": "ufp1rJZ63lvVv6mHWmZkRdRX8V1cMDhidFXus63qXg7pS8BfTxbWDJ54xNvBCQLIBt9sGyJVWG2k8+0nAH/Vgw==",
   "success": true,
-  "projectFilePath": "D:\\Developer\\GRU.Poc.Project\\Infrastructure\\GRU.Poc.Project.Infra.Service\\GRU.Poc.Project.Infra.Service.csproj",
+  "projectFilePath": "D:\\Developer\\GRU.Poc.Project\\Infrastructure\\GRU.Poc.Project.Infra.Service\\GRU.Poc.Project.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marce\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",
     "C:\\Users\\marce\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

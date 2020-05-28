@@ -6,7 +6,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 
-namespace GRU.Poc.Project.Infra.Service.Context.MySql
+namespace GRU.Poc.Project.Infra.Data.Context.MySql
 {
     public class MySqlContext : DbContext
     {

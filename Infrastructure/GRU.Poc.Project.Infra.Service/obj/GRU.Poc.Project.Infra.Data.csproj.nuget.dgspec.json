@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Developer\\GRU.Poc.Project\\Infrastructure\\GRU.Poc.Project.Infra.Service\\GRU.Poc.Project.Infra.Service.csproj": {}
+    "D:\\Developer\\GRU.Poc.Project\\Infrastructure\\GRU.Poc.Project.Infra.Service\\GRU.Poc.Project.Infra.Data.csproj": {}
   },
   "projects": {
-    "D:\\Developer\\GRU.Poc.Project\\Infrastructure\\GRU.Poc.Project.Infra.Service\\GRU.Poc.Project.Infra.Service.csproj": {
+    "D:\\Developer\\GRU.Poc.Project\\Infrastructure\\GRU.Poc.Project.Infra.Service\\GRU.Poc.Project.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Developer\\GRU.Poc.Project\\Infrastructure\\GRU.Poc.Project.Infra.Service\\GRU.Poc.Project.Infra.Service.csproj",
+        "projectUniqueName": "D:\\Developer\\GRU.Poc.Project\\Infrastructure\\GRU.Poc.Project.Infra.Service\\GRU.Poc.Project.Infra.Data.csproj",
         "projectName": "GRU.Poc.Project.Infra.Data",
-        "projectPath": "D:\\Developer\\GRU.Poc.Project\\Infrastructure\\GRU.Poc.Project.Infra.Service\\GRU.Poc.Project.Infra.Service.csproj",
+        "projectPath": "D:\\Developer\\GRU.Poc.Project\\Infrastructure\\GRU.Poc.Project.Infra.Service\\GRU.Poc.Project.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
         "outputPath": "D:\\Developer\\GRU.Poc.Project\\Infrastructure\\GRU.Poc.Project.Infra.Service\\obj\\",
         "projectStyle": "PackageReference",

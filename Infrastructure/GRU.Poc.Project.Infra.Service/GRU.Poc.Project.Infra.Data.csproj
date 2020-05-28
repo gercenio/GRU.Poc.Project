@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>GRU.Poc.Project.Infra.Data</AssemblyName>
+    <RootNamespace>GRU.Poc.Project.Infra.Data</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

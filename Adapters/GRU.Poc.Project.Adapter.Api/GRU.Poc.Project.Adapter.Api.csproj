@@ -26,6 +26,6 @@
     <ProjectReference Include="..\..\Application\GRU.Poc.Project.Application\GRU.Poc.Project.Application.csproj" />
     <ProjectReference Include="..\..\Domain\GRU.Poc.Project.Domain\GRU.Poc.Project.Domain.csproj" />
     <ProjectReference Include="..\..\Infrastructure\GRU.Poc.Project.Infra.Data\GRU.Poc.Project.Infra.Data.csproj" />
-    <ProjectReference Include="..\..\Infrastructure\GRU.Poc.Project.Infra.Service\GRU.Poc.Project.Infra.Service.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\GRU.Poc.Project.Infra.Service\GRU.Poc.Project.Infra.Data.csproj" />
   </ItemGroup>
 </Project>

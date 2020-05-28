@@ -2786,9 +2786,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Developer\\GRU.Poc.Project\\Infrastructure\\GRU.Poc.Project.Infra.Service\\GRU.Poc.Project.Infra.Service.csproj",
-      "projectName": "GRU.Poc.Project.Infra.Service",
-      "projectPath": "D:\\Developer\\GRU.Poc.Project\\Infrastructure\\GRU.Poc.Project.Infra.Service\\GRU.Poc.Project.Infra.Service.csproj",
+      "projectUniqueName": "D:\\Developer\\GRU.Poc.Project\\Infrastructure\\GRU.Poc.Project.Infra.Service\\GRU.Poc.Project.Infra.Data.csproj",
+      "projectName": "GRU.Poc.Project.Infra.Data",
+      "projectPath": "D:\\Developer\\GRU.Poc.Project\\Infrastructure\\GRU.Poc.Project.Infra.Service\\GRU.Poc.Project.Infra.Data.csproj",
       "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
       "outputPath": "D:\\Developer\\GRU.Poc.Project\\Infrastructure\\GRU.Poc.Project.Infra.Service\\obj\\",
       "projectStyle": "PackageReference",

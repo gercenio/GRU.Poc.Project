@@ -93,11 +93,9 @@ D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netc
 D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\GRU.Poc.Project.Application.dll
 D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\GRU.Poc.Project.Domain.dll
 D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\GRU.Poc.Project.Infra.Data.dll
-D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\GRU.Poc.Project.Infra.Service.dll
 D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\GRU.Poc.Project.Application.pdb
 D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\GRU.Poc.Project.Domain.pdb
 D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\GRU.Poc.Project.Infra.Data.pdb
-D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\GRU.Poc.Project.Infra.Service.pdb
 D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
 D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
 D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
@@ -119,13 +117,6 @@ D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netc
 D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
 D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
-D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
-D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
-D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
-D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
-D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
-D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
 D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\obj\Debug\netcoreapp3.1\GRU.Poc.Project.Adapter.Api.csproj.CoreCompileInputs.cache
 D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\obj\Debug\netcoreapp3.1\GRU.Poc.Project.Adapter.Api.MvcApplicationPartsAssemblyInfo.cs
 D:\Developer\GRU.Poc.Project\Adapters\GRU.Poc.Project.Adapter.Api\obj\Debug\netcoreapp3.1\GRU.Poc.Project.Adapter.Api.MvcApplicationPartsAssemblyInfo.cache

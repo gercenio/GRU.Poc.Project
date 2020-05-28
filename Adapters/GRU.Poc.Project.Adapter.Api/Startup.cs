@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using FluentValidation;
 using GRU.Poc.Project.Adapter.Api.Configurations;
 using GRU.Poc.Project.Application.Behaviors;
-using GRU.Poc.Project.Infra.Service.Context.MySql;
+using GRU.Poc.Project.Infra.Data.Context.MySql;
 using MediatR;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
