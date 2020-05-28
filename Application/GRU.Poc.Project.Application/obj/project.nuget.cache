@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PmSg0b2JMoz+NSGk04C0/vZnvIODur8ADFJzy7WfswTvX2DntrAw4JlOwHGQlnLrvG4PhQJEjaxobnJCL11N5A==",
+  "dgSpecHash": "GLFxdZ9t1H9X3bCKgAGgkwbKzE4XQCvi6fvNYYvCY7OPAEcwKbiyIB1DRgoU7Cx7nMDQiMSc9tWt4vj7SIeL7A==",
   "success": true,
-  "projectFilePath": "d:\\Developer\\GRU.Poc.Project\\Application\\GRU.Poc.Project.Application\\GRU.Poc.Project.Application.csproj",
+  "projectFilePath": "D:\\Developer\\GRU.Poc.Project\\Application\\GRU.Poc.Project.Application\\GRU.Poc.Project.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marce\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\marce\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

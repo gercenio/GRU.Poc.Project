@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Developer\\GRU.Poc.Project\\Application\\GRU.Poc.Project.Application\\GRU.Poc.Project.Application.csproj": {}
+    "D:\\Developer\\GRU.Poc.Project\\Application\\GRU.Poc.Project.Application\\GRU.Poc.Project.Application.csproj": {}
   },
   "projects": {
-    "d:\\Developer\\GRU.Poc.Project\\Application\\GRU.Poc.Project.Application\\GRU.Poc.Project.Application.csproj": {
+    "D:\\Developer\\GRU.Poc.Project\\Application\\GRU.Poc.Project.Application\\GRU.Poc.Project.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Developer\\GRU.Poc.Project\\Application\\GRU.Poc.Project.Application\\GRU.Poc.Project.Application.csproj",
+        "projectUniqueName": "D:\\Developer\\GRU.Poc.Project\\Application\\GRU.Poc.Project.Application\\GRU.Poc.Project.Application.csproj",
         "projectName": "GRU.Poc.Project.Application",
-        "projectPath": "d:\\Developer\\GRU.Poc.Project\\Application\\GRU.Poc.Project.Application\\GRU.Poc.Project.Application.csproj",
+        "projectPath": "D:\\Developer\\GRU.Poc.Project\\Application\\GRU.Poc.Project.Application\\GRU.Poc.Project.Application.csproj",
         "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-        "outputPath": "d:\\Developer\\GRU.Poc.Project\\Application\\GRU.Poc.Project.Application\\obj\\",
+        "outputPath": "D:\\Developer\\GRU.Poc.Project\\Application\\GRU.Poc.Project.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

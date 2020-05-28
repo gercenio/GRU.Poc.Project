@@ -185,19 +185,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Developer\\GRU.Poc.Project\\Infrastructure\\GRU.Poc.Project.Infra.Service\\GRU.Poc.Project.Infra.Service.csproj",
+      "projectUniqueName": "D:\\Developer\\GRU.Poc.Project\\Infrastructure\\GRU.Poc.Project.Infra.Service\\GRU.Poc.Project.Infra.Service.csproj",
       "projectName": "GRU.Poc.Project.Infra.Service",
-      "projectPath": "d:\\Developer\\GRU.Poc.Project\\Infrastructure\\GRU.Poc.Project.Infra.Service\\GRU.Poc.Project.Infra.Service.csproj",
+      "projectPath": "D:\\Developer\\GRU.Poc.Project\\Infrastructure\\GRU.Poc.Project.Infra.Service\\GRU.Poc.Project.Infra.Service.csproj",
       "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-      "outputPath": "d:\\Developer\\GRU.Poc.Project\\Infrastructure\\GRU.Poc.Project.Infra.Service\\obj\\",
+      "outputPath": "D:\\Developer\\GRU.Poc.Project\\Infrastructure\\GRU.Poc.Project.Infra.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

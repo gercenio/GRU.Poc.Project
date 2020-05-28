@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RspLzoLwAOPDy4T+yXys+Q+2orFled666Bm9yomPPTdZ/ARYh0FVI4+ua+cKkcAgXQRrxjGc6MRArL5rYBVMdQ==",
+  "dgSpecHash": "S8rEQmYD3Z+81ZsB9bl+3M1HMoLJf2cOvgITTLRWt51GGoTD+xJEss+J0uXK28WIYW9LMRHxbysl/MuUZdOHkw==",
   "success": true,
-  "projectFilePath": "d:\\Developer\\GRU.Poc.Project\\Test\\GRU.Poc.Project.Test\\GRU.Poc.Project.Test.csproj",
+  "projectFilePath": "D:\\Developer\\GRU.Poc.Project\\Test\\GRU.Poc.Project.Test\\GRU.Poc.Project.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marce\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\marce\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

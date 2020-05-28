@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lWHtPnZ8MoD9dgX1YFN+AnGIxMNXzoqU56w0aWBunugkWWB9BBmKlcerIQZNpJtE+MdOfsKvT9kNQgl2ZVeeig==",
+  "dgSpecHash": "9Hluw4ORY9hDpDoCNMFIkqwRp3K3MdZ09KpAe5Qzukw0a23UywhJoBl/oNEX9z9ibQQ38Yntj1tiMGgPu7qIIw==",
   "success": true,
-  "projectFilePath": "d:\\Developer\\GRU.Poc.Project\\Adapters\\GRU.Poc.Project.Adapter.Api\\GRU.Poc.Project.Adapter.Api.csproj",
+  "projectFilePath": "D:\\Developer\\GRU.Poc.Project\\Adapters\\GRU.Poc.Project.Adapter.Api\\GRU.Poc.Project.Adapter.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marce\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
     "C:\\Users\\marce\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.0.0\\mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",

@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Developer\\GRU.Poc.Project\\Domain\\GRU.Poc.Project.Domain\\GRU.Poc.Project.Domain.csproj": {}
+    "D:\\Developer\\GRU.Poc.Project\\Domain\\GRU.Poc.Project.Domain\\GRU.Poc.Project.Domain.csproj": {}
   },
   "projects": {
-    "d:\\Developer\\GRU.Poc.Project\\Domain\\GRU.Poc.Project.Domain\\GRU.Poc.Project.Domain.csproj": {
+    "D:\\Developer\\GRU.Poc.Project\\Domain\\GRU.Poc.Project.Domain\\GRU.Poc.Project.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Developer\\GRU.Poc.Project\\Domain\\GRU.Poc.Project.Domain\\GRU.Poc.Project.Domain.csproj",
+        "projectUniqueName": "D:\\Developer\\GRU.Poc.Project\\Domain\\GRU.Poc.Project.Domain\\GRU.Poc.Project.Domain.csproj",
         "projectName": "GRU.Poc.Project.Domain",
-        "projectPath": "d:\\Developer\\GRU.Poc.Project\\Domain\\GRU.Poc.Project.Domain\\GRU.Poc.Project.Domain.csproj",
+        "projectPath": "D:\\Developer\\GRU.Poc.Project\\Domain\\GRU.Poc.Project.Domain\\GRU.Poc.Project.Domain.csproj",
         "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-        "outputPath": "d:\\Developer\\GRU.Poc.Project\\Domain\\GRU.Poc.Project.Domain\\obj\\",
+        "outputPath": "D:\\Developer\\GRU.Poc.Project\\Domain\\GRU.Poc.Project.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
